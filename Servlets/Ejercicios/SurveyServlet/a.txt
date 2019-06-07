@@ -1,0 +1,7 @@
+<BEGIN>
+nombreEncuesta:a
+nombreUsuario:a
+apellidoUsuario:a
+telefonoUsuario:a
+submit:Enviar
+<END>
